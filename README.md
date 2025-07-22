@@ -14,4 +14,4 @@
 Clone the repo and run:
 
 ```bash
-go build -o PasswordMaker.exe
+fyne package -os windows --icon keys.ico --name PasswordMaker
